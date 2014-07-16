@@ -22,3 +22,6 @@ http://www-nlp.stanford.edu/software/index.shtml
 Linux Record
 1. Intel PCM “Ù∆µ
 http://blog.163.com/tongfangyuan0000@126/blog/static/43041855200921272753720/
+
+2. IOS
+SpeakHere
